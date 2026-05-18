@@ -1,4 +1,4 @@
-// const icon_menu = document.querySelector(".icon-menu");
+const icon_menu = document.querySelector(".icon-menu");
 // const nav = document.querySelector("header nav");
 // const icon_close = document.querySelector(".iconclose");
 // icon_menu.addEventListener('click',()=>{
